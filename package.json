@@ -1,0 +1,9 @@
+{
+  "name": "inferno-bundled",
+  "version": "3.9.0",
+  "description": "This is a bundle of all dependencies needed for Inferno and Inferno Compat",
+  "main": "index.js",
+  "repository": "git@github.com:palcisto/inferno-bundled.git",
+  "author": "palcisto <patrickalcisto@gmail.com>",
+  "license": "MIT"
+}
