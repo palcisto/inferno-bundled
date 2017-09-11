@@ -1,6 +1,6 @@
 {
   "name": "inferno-bundled",
-  "main": "index.js",
+  "main": "./inferno-bundled.js",
   "version": "3.9.0",
   "authors": [
     "palcisto <patrickalcisto@gmail.com>"
