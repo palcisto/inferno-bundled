@@ -9,7 +9,6 @@
   "license": "MIT",
   "homepage": "https://github.com/palcisto/inferno-bundled",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
