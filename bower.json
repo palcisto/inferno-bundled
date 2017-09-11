@@ -7,7 +7,7 @@
   ],
   "description": "This is a bundle of all dependencies needed for Inferno and Inferno Compat",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/palcisto/inferno-bundled",
   "ignore": [
     "**/.*",
     "node_modules",
